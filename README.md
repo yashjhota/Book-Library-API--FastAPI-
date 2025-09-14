@@ -28,14 +28,11 @@ This project is part of my Python + Software Engineering learning journey, focus
 ---
 
 ## 📂 Project Structure
-book_library_api/
-├── app/
-│ ├── main.py # FastAPI entrypoint
-│ ├── models.py # Database models
-│ ├── schemas.py # Pydantic schemas
-│ ├── database.py # DB connection & session
-│ ├── crud.py # CRUD functions
-│ ├── logger.py # Logging setup
-│ ├── tests/ # pytest test cases
-├── requirements.txt
-├── README.md
+-book_library_api/
+
+-   ├── main.py # FastAPI entrypoint
+-   ├── models.py # Database models
+-   ├── db.py # DB connection & session
+-   ├── tests/ # pytest test cases
+-   ├── requirements.txt
+-   ├── README.md
