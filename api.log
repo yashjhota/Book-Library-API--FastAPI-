@@ -1,0 +1,12 @@
+2025-09-14 11:33:15,542 - INFO - Incoming request: GET http://127.0.0.1:8000/
+2025-09-14 11:33:15,542 - INFO - Response status: 200
+2025-09-14 11:33:36,956 - INFO - Incoming request: GET http://127.0.0.1:8000/docs
+2025-09-14 11:33:36,957 - INFO - Response status: 200
+2025-09-14 11:33:37,374 - INFO - Incoming request: GET http://127.0.0.1:8000/openapi.json
+2025-09-14 11:33:37,389 - INFO - Response status: 200
+2025-09-14 11:33:56,948 - INFO - Incoming request: GET http://127.0.0.1:8000/books/George Orwell
+2025-09-14 11:33:56,948 - INFO - Response status: 200
+2025-09-14 11:34:25,284 - INFO - Incoming request: GET http://127.0.0.1:8000/books
+2025-09-14 11:34:25,287 - INFO - Response status: 200
+2025-09-14 11:35:03,157 - INFO - Incoming request: PUT http://127.0.0.1:8000/books/9
+2025-09-14 11:35:03,472 - INFO - Response status: 422
