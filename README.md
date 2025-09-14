@@ -29,10 +29,11 @@ This project is part of my Python + Software Engineering learning journey, focus
 
 ## 📂 Project Structure
 -book_library_api/
-
+```
 -   ├── main.py # FastAPI entrypoint
 -   ├── models.py # Database models
 -   ├── db.py # DB connection & session
 -   ├── tests/ # pytest test cases
 -   ├── requirements.txt
 -   ├── README.md
+```
