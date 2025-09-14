@@ -42,7 +42,26 @@ This project is part of my Python + Software Engineering learning journey, focus
 
 ## ⚡ Getting Started
 
-### 1️⃣ Clone the repo
+### 1️ Clone the repo
 ```bash
 git clone https://github.com/yashjhota/book-library-api
 cd book-library-api
+```
+### 2 Create a Virtual Env
+```bash
+python -m venv venv
+source venv/bin/activate   # Mac/Linux
+venv\Scripts\activate      # Windows
+```
+### 3 Install Dependecnies
+```bash
+pip install -r requirements.txt
+```
+### 4 Run the app
+```bash
+uvicorn main:app --reload
+```
+### 5 Visit
+```
+http://127.0.0.1:8000/docs
+```
