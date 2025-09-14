@@ -37,3 +37,12 @@ This project is part of my Python + Software Engineering learning journey, focus
 -   ├── requirements.txt
 -   ├── README.md
 ```
+
+---
+
+## ⚡ Getting Started
+
+### 1️⃣ Clone the repo
+```bash
+git clone https://github.com/yashjhota/book-library-api
+cd book-library-api
